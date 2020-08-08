@@ -102,4 +102,129 @@
     color: #fff;
 }
 
+.icon-gitbash{
+    background-color: black;
+    height: 600px;
+    width: 400px;
+    display: flexbox;
+}
+
+.icon-gitbash__div-transparent-left {
+    float:left;
+    width: 100px;
+    height: 100px;
+}
+
+
+.icon-gitbash__div-2 {
+    float: left;
+    width: 0;
+    height: 0;
+    border-top: 100px solid transparent;
+    border-right: 100px solid #f0f;
+}
+
+.icon-gitbash__div-3 {
+    float: left;
+    width: 0;
+    height: 0;
+    border-top: 100px solid transparent;
+    border-left: 100px solid #f0f;
+}
+
+.icon-gitbash__div-transparent-right {
+    float: right;
+    width: 100px;
+    height: 100px;
+}
+
+.icon-gitbash__div-5 {
+    float: left;
+    width: 0;
+    height: 0;
+    border-right: 100px solid #66a3ff;
+    border-top: 100px solid transparent;
+}
+
+.icon-gitbash__div-6 {
+    float: left;
+    width: 0;
+    height: 0;
+    border-left: 100px solid #66a3ff;
+    border-top: 100px solid #f0f;
+}
+
+.icon-gitbash__div-7 {
+    float: left;
+    width: 0;
+    height: 0;
+    border-bottom: 100px solid #6bff66;
+    border-left: 100px solid #f0f;
+}
+
+.icon-gitbash__div-8 {
+    float: left;
+    width: 0;
+    height: 0;
+    border-left: 100px solid #6bff66;
+    border-top: 100px solid transparent;
+}
+
+.icon-gitbash__div-9 {
+    float: left;
+    width: 0;
+    height: 0;
+    border-right: 100px solid #66a3ff;
+    border-bottom: 100px solid transparent;
+}
+
+
+.icon-gitbash__div-10 {
+    float: left;
+    width: 0;
+    height: 0;
+    border-left: 100px solid #66a3ff;
+    border-bottom: 100px solid #fffc66;
+}
+
+.icon-gitbash__div-11 {
+    float: left;
+    width: 0;
+    height: 0;
+    border-left: 100px solid #fffc66;
+    border-top: 100px solid #6bff66;
+    margin: 0;
+    border-spacing: 0;
+}
+
+
+.icon-gitbash__div-12 {
+    float: left;
+    width: 0;
+    height: 0;
+    border-left: 100px solid #6bff66;
+    border-bottom: 100px solid transparent;
+    margin: 0;
+    border-spacing: 0;
+}
+
+.icon-gitbash__div-14 {
+    float: left;
+    width: 0;
+    height: 0;
+    border-right: 100px solid #fffc66;
+    border-bottom: 100px solid transparent;
+    margin: 0;
+}
+
+
+.icon-gitbash__div-15 {
+    float: left;
+    width: 0;
+    height: 0;
+    border-left: 100px solid #fffc66;
+    border-bottom: 100px solid transparent;
+    margin: 0;
+    padding: 0;
+}
 
