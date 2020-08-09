@@ -196,6 +196,16 @@
     border-left: 100px solid #f0f;
 }
 
+.icon-gitbash__div-7--cir1 {
+    background-color: #000;
+    position: relative;
+    left: -110px;
+    top: -10px;
+    width: 20px;
+    height: 20px;
+    border-radius: 100%;
+}
+
 .icon-gitbash__div-8 {
     float: left;
     width: 0;
@@ -242,6 +252,16 @@
     border-spacing: 0;
 }
 
+.icon-gitbash__div-12--cir1 {
+    background-color: #000;
+    position: relative;
+    left: -100px;
+    top: 0px;
+    width: 20px;
+    height: 20px;
+    border-radius: 100%;
+}
+
 .icon-gitbash__div-14 {
     float: left;
     width: 0;
@@ -260,5 +280,15 @@
     border-bottom: 100px solid transparent;
     margin: 0;
     padding: 0;
+}
+
+.icon-gitbash__div-15--cir1 {
+    background-color: #000;
+    position: relative;
+    left: -110px;
+    top: -10px;
+    width: 20px;
+    height: 20px;
+    border-radius: 100%;
 }
 
